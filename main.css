@@ -39,7 +39,11 @@ p {
 ul.nav li a{
 	margin-top: 1.5em;
 	color: white; 
-	text-transform: uppercase;
+	background-color: RGB(125,20,28);
+}
+
+ul.nav li a:hover{
+	background-color: rgb(173, 126, 130);
 }
 .jumbotron {
 	background:linear-gradient(0deg,rgba(125,20,28,.5),rgba(57,47,44,.78)),url(https://i.imgur.com/29aohQQ.jpg);
@@ -77,8 +81,9 @@ ul.nav li a{
 	left:auto;
     width: 100%;
     top: 65px;
-    
 }
+
+
 
 .about-image {
 	height: 275px;
@@ -117,7 +122,7 @@ ul.nav li a{
 }
 
 .fa.fa-navicon {
-  color: #0057B8;
+  color: white;
   font-size: 36px;
   position: fixed;
   top: 20px;
