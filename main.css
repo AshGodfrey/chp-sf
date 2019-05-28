@@ -10,7 +10,7 @@ h1 {
 h3 {
 	text-align: center;
 	color: RGB(125,20,28);
-	font-size: 35px;
+	font-size: 30px;
 	margin-bottom: 20px;
 	font-weight: 500;
 }
@@ -40,6 +40,7 @@ p {
 
 .card {
 	background-color: #f1f1f1;
+	padding-bottom: 15px;
 }
 
 
@@ -237,4 +238,5 @@ media - hide .dropdown-menu class */
   	background-color: white;
   	box-shadow: 0px 5px 10px rgba(0,0,0,0.2);
   }
+
 }
