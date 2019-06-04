@@ -161,7 +161,7 @@ p {
 
 
 .about-us-text {
-	margin-top: 50px;
+	margin-top: 70px;
 }
 
 .img-circle {
@@ -228,6 +228,11 @@ media - hide .dropdown-menu class */
 	height: 90px;
 }
 
+.card {
+	padding: 20px;
+	height: 400px;
+}
+
 .card:hover {
   	margin-top: 0px;
   	background-color: white;
@@ -240,8 +245,8 @@ media - hide .dropdown-menu class */
 
 
 .card {
-  	padding: 10px;
-  	height: 300px;
+  	padding: 20px;
+  	height: 400px;
   	margin-top: 30px;
   }
   .card:hover {
